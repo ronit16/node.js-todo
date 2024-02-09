@@ -5,8 +5,8 @@ mongoose.connect("mongodb://localhost:27017/todoListDB");
 
 const app=express();
 
-app.listen(7001,()=>{
-    console.log("hey server is up and alive");
+app.listen(3000,()=>{
+    console.log("Server is start at port 3000");
 });
 
 // middlewares
