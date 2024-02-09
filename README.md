@@ -24,9 +24,9 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
-   ```
+```bash
+git clone https://github.com/your-username/todo-list-app.git
+```
    
 2. Change into the project directory:
 
